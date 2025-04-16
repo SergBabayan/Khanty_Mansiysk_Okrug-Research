@@ -64,7 +64,7 @@
 ## Визуализация результатов
 
 ### Тренды показателей
-![1](/graphs/oil_prod_regression.png)  
+![1](/graphs/oilprodregression.png)  
 
 ![2](/graphs/gas_prod_regression.png)  
 
