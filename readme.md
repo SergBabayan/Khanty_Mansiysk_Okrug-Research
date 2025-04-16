@@ -64,11 +64,11 @@
 ## Визуализация результатов
 
 ### Тренды показателей
-![1](/graphs/oilprodregression.png)  
+![1](graphs/oilprodregression.png)  
 
-![2](/graphs/gas_prod_regression.png)  
+![2](graphs/gas_prod_regression.png)  
 
-![3](/graphs/oil_price_regression.png)
+![3](graphs/oil_price_regression.png)
 
 ### Сравнительный прогноз
 ![Все показатели на 2035 год](graphs/all_predictions.png)
